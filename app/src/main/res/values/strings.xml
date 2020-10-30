@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SquashApps</string>
+
+    <string name="eleanor_pena">Eleanor Pena</string>
+    <string name="eleanor333">\@eleanor333</string>
+    <string name="persons_bio_data_nlorem_ipsum_dolor_sit_amet_cons">Persons bio data\nLorem ipsum dolor sit amet, cons</string>
+    <string name="_10k">10K</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="_1_1k">1.1K</string>
+    <string name="_15_2m">15.2M</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="_75_2m">75.2M</string>
+    <string name="_125_videos">125 Videos</string>
+    <string name="follow">Follow</string>
+
+<!--    contentdescriptions-->
+    <string name="verifyicon">verifyicon</string>
+    <string name="moreicon">moreicon</string>
+    <string name="backicon">backicon</string>
+    <string name="sendicon">sendicon</string>
+    <string name="videoimage">videoimage</string>
+    <string name="eyeicon">eyeicon</string>
+
+</resources>
